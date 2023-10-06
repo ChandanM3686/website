@@ -1,0 +1,12 @@
+#cart table {
+
+    width:100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space:nowrap;
+    text-align:justify;
+   }
+  
+   #cart table img {
+    width:70px;
+   }
